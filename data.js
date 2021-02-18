@@ -1,4 +1,4 @@
-const data = [{
+const characters = [{
     id: 1,
     first_name: 'Netty',
     last_name: 'Lerven',
@@ -72,5 +72,5 @@ const data = [{
 ]
 
 module.exports = {
-    data
+    characters
 };
